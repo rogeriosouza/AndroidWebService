@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidWebService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="autorlabel">"Autor : "</string>
+    <string name="comentalabel">"Comentários : "</string>
+    <string name="scorelabel">"Score : "</string>
+    <string name="label_url">label_url</string>
+    <string name="default_test_url">default_test_url</string>
+    <string name="label_start_custom_tab">label_start_custom_tab</string>
+</resources>
