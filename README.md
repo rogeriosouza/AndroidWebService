@@ -1,21 +1,23 @@
 # AndroidWebService
-netbee - reddit post
+* NETBEE - reddit post
 
 ## Inicio
 
-Copiar o repositorio git para Android Studio.
+* clone o repositorio git para Android Studio.
 
 ### Pre requisitos
- ANDROID STUDIO SDK
- JAVA JDK 
- GENYMOTION
- ROBOLETRIC - PARA TESTES
+ * ANDROID STUDIO SDK
+ * JAVA JDK 
+ * GENYMOTION
+ * ROBOLETRIC - PARA TESTES
  
 ### Installing
 
-FILE >> NEW >> IMPORT GIT
-DONWLOAD GENYMOTION
-INSTALL BIBLIOTECA ROBOLETRIC 
+* FILE >NEW >IMPORT GIT
+
+* DONWLOAD GENYMOTION
+
+* INSTALL BIBLIOTECA ROBOLETRIC 
 
 Say what the step will be
 
