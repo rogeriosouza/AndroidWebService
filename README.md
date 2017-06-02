@@ -62,7 +62,7 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [ANDROID STUDIO NATIVO ](http://www.DEVELOPERANDROID) - The web framework used
-* [GRADLE(URL) - Dependency Management
+* [GRADLE(URL)] - Dependency Management
 * [REDDIT](https://www.reddit.com/r/Android/new/.json) - Used to generate RSS Feeds
 
 ## Contributing
